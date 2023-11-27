@@ -38,6 +38,6 @@
 
 这个仓库存放插件的模板项目
 
-##Discord
+## Discord
 
 社区讨论社群 👉[join](https://discord.gg/KhVBsZMx)
