@@ -1,30 +1,43 @@
 # DartOpsHud
 
-A community of automated processes implemented using Dart code
+一个用 Dart 代码实现的自动化流程社区
 
-The community mainly includes the following projects:
+社区主要包含以下项目：
 
 ## App
 
-This is a Flutter Desktop desktop App, mainly responsible for the work of the automation community.
+这是一款 Flutter Desktop 的桌面App，主要负责自动化社区的工作。
 
-- Community plugin list
-- Plugin search
-- Install/uninstall plugins
-- Create plugins
-- Publish plug-ins
-- Follow-up preparation to get through with Jenkins
-- More others
+- 社区插件列表
 
-# Plugins
-This is where some official plug-in source codes developed by the community are stored.
+- 插件搜索
 
-## WebSite
+- 安装/卸载插件
 
-This is a website about community introduction, built using Flutter Web service
+- 创建插件
+
+- 发布插件
+
+- 后续准备和Jenkins打通
+
+- 更多其他
+
+
+## Plugins
+
+
+这个是存放社区开发的一些官方插件源码
+
+## dartopshub.github.io
+
+
+这个是关于社区介绍的的网站，使用Flutter Web 服务构建
 
 ## Templates
-This repository stores the template projects of the plug-in
 
-# Discord
-Community discussion community 👉[join](https://discord.gg/KhVBsZMx)
+
+这个仓库存放插件的模板项目
+
+##Discord
+
+社区讨论社群 👉[join](https://discord.gg/KhVBsZMx)
